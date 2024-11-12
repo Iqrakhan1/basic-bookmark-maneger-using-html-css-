@@ -1,0 +1,16 @@
+body {
+  background-color: rgb(216, 249, 249);
+}
+h1 {
+  text-align: center;
+  margin-bottom: 40px;
+}
+ul {
+  list-style-type: none;
+}
+
+li {
+  background-color: rgb(250, 171, 187);
+  padding: 20px;
+  color: white;
+}
